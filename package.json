@@ -1,6 +1,6 @@
 {
   "name": "02-phonebook",
-  "homepage": "https://olgachotii.github.io/02-fhnpm run buildonebook",
+  "homepage": "https://olgachotii.github.io/02-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
