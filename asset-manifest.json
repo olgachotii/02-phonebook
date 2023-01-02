@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/02-fhnpm%20run%20buildonebook/static/css/main.31d6cfe0.css",
+    "main.js": "/02-fhnpm%20run%20buildonebook/static/js/main.51ba99e3.js",
+    "index.html": "/02-fhnpm%20run%20buildonebook/index.html",
+    "main.51ba99e3.js.map": "/02-fhnpm%20run%20buildonebook/static/js/main.51ba99e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.51ba99e3.js"
+  ]
+}
